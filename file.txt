@@ -1,2 +1,1 @@
-Sentence example.
-Second line added - BFx
+resolving conflicts
